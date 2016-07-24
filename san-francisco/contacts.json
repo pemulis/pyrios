@@ -1,0 +1,41 @@
+{
+  "contacts": {
+    "San Francisco": {
+      "Mayor's Office": {
+        "email": "mayorsunshinerequests@sfgov.org",
+        "name": "Public Records Coordinator",
+        "notes": ""
+      },
+      "Municipal Transportation Agency": {
+        "email": "sfmtasunshinerequests@sfmta.com",
+        "name": "Public Records Coordinator",
+        "notes": ""
+      },
+      "Human Services Agency": {
+        "email": "hsasunshine@sfgov.org",
+        "name": "HSA Custodian of Records",
+        "notes": ""
+      },
+      "Office of Community Investment and Infrastructure": {
+        "email": "Claudia.Guerra@sfgov.org",
+        "name": "Claudia Guerra",
+        "notes": ""
+      },
+      "Mayor's Hunters Point Shipyard Citizens Advisory Committee": {
+        "email": "info@hpscac.com",
+        "name": "Micah Fobbs",
+        "notes": ""
+      },
+      "Department of Building Inspection": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Sunshine Request Coordinator",
+        "notes": ""
+      },
+      "Adult Probation Department": {
+        "email": "AdultProbationWebContact@sfgov.org",
+        "name": "Adult Probation Department",
+        "notes": ""
+      }
+    }
+  }
+}
