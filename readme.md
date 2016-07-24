@@ -1,5 +1,5 @@
-# Pyrios Project
-The Pyrios Project, named after one of the four horses who pulled the chariot of the sun god Helios, is a set of tools for taking advantage of sunshine laws. You're allowed to access many records from your government, and you don't need to be a member of the press to do so! Know your rights, learn your tools, and start getting documents.
+# Pyrios
+Pyrios, named after one of the four horses who pulled the chariot of the sun god Helios, is a set of tools for taking advantage of sunshine laws. You're allowed to access many records from your government, and you don't need to be a member of the press to do so! Know your rights, learn your tools, and start getting documents.
 
 ## Points of Contact
 TBD. Federal, state, and local breakdown.
