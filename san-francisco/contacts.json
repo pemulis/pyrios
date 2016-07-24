@@ -4,36 +4,277 @@
       "Mayor's Office": {
         "email": "mayorsunshinerequests@sfgov.org",
         "name": "Public Records Coordinator",
+        "url": "",
         "notes": ""
       },
       "Municipal Transportation Agency": {
         "email": "sfmtasunshinerequests@sfmta.com",
         "name": "Public Records Coordinator",
+        "url": "",
         "notes": ""
       },
       "Human Services Agency": {
         "email": "hsasunshine@sfgov.org",
         "name": "HSA Custodian of Records",
+        "url": "",
         "notes": ""
       },
       "Office of Community Investment and Infrastructure": {
         "email": "Claudia.Guerra@sfgov.org",
         "name": "Claudia Guerra",
+        "url": "",
         "notes": ""
       },
       "Mayor's Hunters Point Shipyard Citizens Advisory Committee": {
         "email": "info@hpscac.com",
         "name": "Micah Fobbs",
+        "url": "",
         "notes": ""
       },
       "Department of Building Inspection": {
         "email": "dbi.sunshinerequests@sfgov.org",
         "name": "Sunshine Request Coordinator",
+        "url": "",
         "notes": ""
       },
       "Adult Probation Department": {
         "email": "AdultProbationWebContact@sfgov.org",
         "name": "Adult Probation Department",
+        "url": "",
+        "notes": ""
+      },
+      "Animal Care & Control": {
+        "email": "ACC@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Board of Permit Appeals": {
+        "email": "boardofappeals@sfgov.org",
+        "name": "Board of Appeals",
+        "url": "",
+        "notes": ""
+      },
+      "Arts Commission": {
+        "email": "SFAC.RecordsRequest@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Assessment Appeals Board": {
+        "email": "AAB@sfgov.org ",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the Assessor-Recorder": {
+        "email": "assessor@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Asthma Task Force": {
+        "email": "karen.cohn@sfdph.org",
+        "name": "Karen Cohn",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Emergency Management": {
+        "email": "francis.zamora@sfgov.org",
+        "name": "Francis Zamora",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the City Administrator": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Ballot Simplification Committee": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Bayview Hunters Point Citizens Advisory Committee": {
+        "email": "jack.gallagher@sfgov.org",
+        "name": "Jack Gallagher",
+        "url": "",
+        "notes": ""
+      },
+      "Planning Department": {
+        "email": "pic@sfgov.org",
+        "name": "Planning Information Center",
+        "url": "",
+        "notes": ""
+      },
+      "Bicycle Advisory Committee": {
+        "email": "sfbicycleadvisorycommittee@gmail.com",
+        "name": "Bicycle Advisory Committee",
+        "url": "",
+        "notes": ""
+      },
+      "Board of Supervisors": {
+        "email": "Board.of.Supervisors@sfgov.org",
+        "name": "Clerk of the Board of Supervisors",
+        "url": "",
+        "notes": ""
+      },
+      "Budget & Legislative Analyst": {
+        "email": "Board.of.Supervisors@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Building Inspection Commission": {
+        "email": "sonya.harris@sfgov.org",
+        "name": "Sonya Harris",
+        "url": "",
+        "notes": ""
+      },
+      "California Academy of Sciences": {
+        "email": "info@calacademy.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Capital Planning Program": {
+        "email": "cpp@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Central Shops": {
+        "email": "fleet.management@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Child Support Services": {
+        "email": "SFDCSS@SFGOV.ORG",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Children, Youth & Their Families": {
+        "email": "Kimberly.Cox@dcyf.org",
+        "name": "Kimberly Cox",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Citizen Complaints": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Citizen's Advisory Committee for the Central Market & Tenderloin Area": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Citizens’ General Obligation Bond Oversight Committee": {
+        "email": "CGOBO.committee@SFGOV.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "City Attorney": {
+        "email": "info@sfcityattorney.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "City College of San Francisco": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "City Hall Building Management": {
+        "email": "City.Hall.Building.Management@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "City Hall Preservation Advisory Commission": {
+        "email": "preserve.cityhall@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Resilient San Francisco, Office of Resilience and Recovery": {
+        "email": "laurence@kornfield.org",
+        "name": "Laurence Kornfield",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Civic Engagement & Immigrant Affairs": {
+        "email": "civic.engagement@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Civil Grand Jury": {
+        "email": "CivilGrandJury@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Civil Service Commission": {
+        "email": "Public Records Coordinator",
+        "name": "civilservice@sfgov.org",
+        "url": "",
+        "notes": ""
+      },
+      "Code Advisory Committee": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Sunshine Request Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Committee on Information Technology": {
+        "email": "lily.liang@sfgov.org",
+        "name": "Lily Liang",
+        "url": "",
+        "notes": ""
+      },
+      "Community College Grant Program": {
+        "email": "lanita.henriquez@sfgov.org",
+        "name": "Lanita Henriquez",
+        "url": "",
+        "notes": ""
+      },
+      "Code Advisory Committee": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Sunshine Request Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Contract Administration": {
+        "email": "oca.records@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Controller's Office": {
+        "email": "controller@sfgov.org",
+        "name": "Public Records Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Convention Facilities Management": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the County Clerk": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/countyclerk/",
         "notes": ""
       }
     }
