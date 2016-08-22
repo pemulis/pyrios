@@ -79,12 +79,6 @@
         "url": "",
         "notes": ""
       },
-      "Department of Emergency Management": {
-        "email": "francis.zamora@sfgov.org",
-        "name": "Francis Zamora",
-        "url": "",
-        "notes": ""
-      },
       "Office of the City Administrator": {
         "email": "city.administrator@sfgov.org",
         "name": "Custodian of Records",
@@ -229,12 +223,6 @@
         "url": "",
         "notes": ""
       },
-      "Code Advisory Committee": {
-        "email": "dbi.sunshinerequests@sfgov.org",
-        "name": "Sunshine Request Coordinator",
-        "url": "",
-        "notes": ""
-      },
       "Committee on Information Technology": {
         "email": "lily.liang@sfgov.org",
         "name": "Lily Liang",
@@ -332,8 +320,8 @@
         "notes": "Email contact form http://sfgov.org/elections/contact-us"
       },
       "Department of Emergency Management": {
-        "email": "",
-        "name": "",
+        "email": "francis.zamora@sfgov.org",
+        "name": "Francis Zamora",
         "url": "http://sfdem.org/",
         "notes": "Form for 911 dispatch records http://sfdem.org/sites/default/files/SFDEM%283%29.pdf"
       },
@@ -503,23 +491,13 @@
         "email": "",
         "name": "",
         "url": "http://sfgov.org/juvprobation/juvenile-probation-commission",
-        "notes": "Juvenile Probation Department
-375 Woodside Avenue
-San Francisco, CA 94127
-
-Phone: (415) 753-7800
-Fax: (415) 753-7715"
+        "notes": "Juvenile Probation Department\n375 Woodside Avenue\nSan Francisco, CA 94127\n\nPhone: (415) 753-7800\nFax: (415) 753-7715"
       },
       "Juvenile Probation Department": {
         "email": "",
         "name": "",
         "url": "http://sfgov.org/juvprobation/",
-        "notes": "Juvenile Probation Department
-375 Woodside Avenue
-San Francisco, CA 94127
-
-Phone: (415) 753-7800
-Fax: (415) 753-7715"
+        "notes": "Juvenile Probation Department\n375 Woodside Avenue\nSan Francisco, CA 94127\n\nPhone: (415) 753-7800\nFax: (415) 753-7715"
       },
       "Office of Labor Standards Enforcement": {
         "email": "",
@@ -567,14 +545,7 @@ Fax: (415) 753-7715"
         "email": "",
         "name": "",
         "url": "",
-        "notes": "Mayor's Office on Disability
-Attention: MDC Council
-1155 Market Street, 1st Floor
-San Francisco, Ca. 94103
-
-TTY: (415) 554-6799
-Phone: (415) 554-6789
-Fax: (415) 554-6159"
+        "notes": "Mayor's Office on Disability\nAttention: MDC Council\n1155 Market Street, 1st Floor\nSan Francisco, Ca. 94103\n\nTTY: (415) 554-6799\nPhone: (415) 554-6789\nFax: (415) 554-6159"
       },
       "Mayor's Office of Housing and Community Development": {
         "email": "sunshinemohcd@sfgov.org",
@@ -586,9 +557,7 @@ Fax: (415) 554-6159"
         "email": "",
         "name": "",
         "url": "http://sfgov.org/mocj/",
-        "notes": "Mayor's Office - Criminal Justice
-1 Dr. Carlton B. Goodlett Place, Room 200
-San Francisco, CA 94102"
+        "notes": "Mayor's Office - Criminal Justice\n1 Dr. Carlton B. Goodlett Place, Room 200\nSan Francisco, CA 94102"
       },
       "Mayor's Office of Education": {
         "email": "hydra.mendoza@sfgov.org",
@@ -618,24 +587,13 @@ San Francisco, CA 94102"
         "email": "Medical.Examiner@sfgov.org",
         "name": "Custodian of Records",
         "url": "http://sfgov.org/medexaminer/",
-        "notes": "Office of the Chief Medical Examiner
-General Services Agency
-City and County of San Francisco
-Hall of Justice
-850 Bryant Street - North Terrace
-San Francisco, CA 94103
-
-Phone: (415) 553-1694
-Fax: (415) 553-1650"
+        "notes": "Office of the Chief Medical Examiner\nGeneral Services Agency\nCity and County of San Francisco\nHall of Justice\n850 Bryant Street - North Terrace\nSan Francisco, CA 94103\n\nPhone: (415) 553-1694\nFax: (415) 553-1650"
       },
       "Mental Health Board": {
         "email": "mhb@mentalhealthboardsf.org",
         "name": "Custodian of Records",
         "url": "http://www.mhbsf.org/",
-        "notes": "1380 Howard Street, Suite 226
-San Francisco, CA 94103
-Phone: 415-255-3474
-Fax: 415-255-3760"
+        "notes": "1380 Howard Street, Suite 226\nSan Francisco, CA 94103\nPhone: 415-255-3474\nFax: 415-255-3760"
       },
       "Mission Bay Pavilion Project": {
         "email": "john.gavin@sfgov.org",
@@ -791,11 +749,7 @@ Fax: 415-255-3760"
         "email": "patrick.otellini@sfgov.org",
         "name": "Patrick Otellini",
         "url": "http://sfgov.org/orr/contact-us",
-        "notes": "Office of Resilience and Recovery
-City Hall, Room 362
-1 Dr. Carlton B. Goodlett Place
-San Francisco, CA 94102
-Main Line: (415) 554-4925"
+        "notes": "Office of Resilience and Recovery\nCity Hall, Room 362\n1 Dr. Carlton B. Goodlett Place\nSan Francisco, CA 94102\nMain Line: (415) 554-4925"
       },
       "Risk Management": {
         "email": "Risk.Management@sfgov.org",
@@ -813,10 +767,7 @@ Main Line: (415) 554-4925"
         "email": "",
         "name": "",
         "url": "http://sfusd.edu/",
-        "notes": "555 Franklin Street, Room 305
-
-Phone:
-415-241-6565"
+        "notes": "555 Franklin Street, Room 305\n\nPhone:\n415-241-6565"
       },
       "SFBiz Tax": {
         "email": "",
@@ -882,11 +833,7 @@ Phone:
         "email": "",
         "name": "",
         "url": "http://sfgov.org/sefacility/",
-        "notes": "Southeast Community Facility Commission
-1800 Oakdale Avenue, Phelps Wing
-San Francisco, CA 94124
-Phone: (415) 821-1534
-Fax: (415) 821-1627"
+        "notes": "Southeast Community Facility Commission\n1800 Oakdale Avenue, Phelps Wing\nSan Francisco, CA 94124\nPhone: (415) 821-1534\nFax: (415) 821-1627"
       },
       "State Legislation Committee": {
         "email": "andrew.dayton@sfgov.org",
@@ -910,12 +857,7 @@ Fax: (415) 821-1627"
         "email": "sotf@sfgov.org",
         "name": "Custodian of Records",
         "url": "http://sfbos.org/index.aspx?page=4459",
-        "notes": "Sunshine Ordinance Task Force
-1 Dr. Carlton B. Goodlett Place
-Room 244
-San Francisco, CA 94102-4689
-(415) 554-7724 - voice
-(415) 554-5163 - fax"
+        "notes": "Sunshine Ordinance Task Force\n1 Dr. Carlton B. Goodlett Place\nRoom 244\nSan Francisco, CA 94102-4689\n(415) 554-7724 - voice\n(415) 554-5163 - fax"
       },
       "Superior Court": {
         "email": "",
@@ -957,14 +899,7 @@ San Francisco, CA 94102-4689
         "email": "",
         "name": "",
         "url": "http://sfdbi.org/unreinforced-masonry-building-appeals-board",
-        "notes": "Gary Ho, Structural Engineer at 558-6083, or Serena Fung at 558-6196.  Secretary of the UMB Appeals Board may be reached at:
-
-UMB Appeals Board
-Department of Building Inspection
-1660 Mission Street, 2nd Floor,
-San Francisco, CA 94103-2414;
-Tel. (415) 558-6196, Fax (415) 558-6686
-"
+        "notes": "Gary Ho, Structural Engineer at 558-6083, or Serena Fung at 558-6196.  Secretary of the UMB Appeals Board may be reached at:\n\nUMB Appeals Board\nDepartment of Building Inspection\n1660 Mission Street, 2nd Floor,\nSan Francisco, CA 94103-2414;\nTel. (415) 558-6196, Fax (415) 558-6686\n"
       },
       "Utility Undergrounding Task Force": {
         "email": "",
@@ -982,13 +917,7 @@ Tel. (415) 558-6196, Fax (415) 558-6686
         "email": "",
         "name": "",
         "url": "http://sfhsa.org/134.htm",
-        "notes": "County Veterans Service Office
-2 Gough Street
-San Francisco, CA 94103
-
-Main: (415) 934-4200
-Toll Free CA Only: 1-800-807-5799
-Fax: (415) 934-4240"
+        "notes": "County Veterans Service Office\n2 Gough Street\nSan Francisco, CA 94103\n\nMain: (415) 934-4200\nToll Free CA Only: 1-800-807-5799\nFax: (415) 934-4240"
       },
       "Voting Systems Task Force": {
         "email": "",
@@ -1012,12 +941,7 @@ Fax: (415) 934-4240"
         "email": "youthcom@sfgov.org",
         "name": "Custodian of Records",
         "url": "http://sfbos.org/index.aspx?page=5585",
-        "notes": "City Hall
-1 Dr. Carlton B. Goodlett Place, Room 345
-San Francisco, CA 94102-4532
-
-General: (415) 554-6446
-Fax: (415) 554-6140"
+        "notes": "City Hall\n1 Dr. Carlton B. Goodlett Place, Room 345\nSan Francisco, CA 94102-4532\n\nGeneral: (415) 554-6446\nFax: (415) 554-6140"
       },
       "San Francisco Zoo": {
         "email": "rachele@sfzoo.org",
