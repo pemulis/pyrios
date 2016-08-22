@@ -79,12 +79,6 @@
         "url": "",
         "notes": ""
       },
-      "Department of Emergency Management": {
-        "email": "francis.zamora@sfgov.org",
-        "name": "Francis Zamora",
-        "url": "",
-        "notes": ""
-      },
       "Office of the City Administrator": {
         "email": "city.administrator@sfgov.org",
         "name": "Custodian of Records",
@@ -332,8 +326,8 @@
         "notes": "Email contact form http://sfgov.org/elections/contact-us"
       },
       "Department of Emergency Management": {
-        "email": "",
-        "name": "",
+        "email": "francis.zamora@sfgov.org",
+        "name": "Francis Zamora",
         "url": "http://sfdem.org/",
         "notes": "Form for 911 dispatch records http://sfdem.org/sites/default/files/SFDEM%283%29.pdf"
       },
